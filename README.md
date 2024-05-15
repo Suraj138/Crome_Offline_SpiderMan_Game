@@ -39,7 +39,7 @@
 -----------
 ## Running `Spider-Man`
 ### Running `online`
-- Go to https://rededge967.github.io/Spider-Man/
+- Go to https://suraj138.github.io/Crome_Offline_SpiderMan_Game/
 ### Running `offline`
 - Download `source.code.zip` from [here](https://github.com/Suraj138/Crome_Offline_SpiderMan_Game)
 - Extract the folder
